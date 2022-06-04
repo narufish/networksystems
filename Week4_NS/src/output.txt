@@ -1,0 +1,2 @@
+rundz1014.ritsumei.ac.jp - - [28/Sep/2019:22:18:19 -0700] "GET /abc HTTP/1.1" 404 201 
+a184-30-149-218.deploy.static.akamaitechnologies.com - - [29/Sep/2019:10:18:19 -0700] "GET /favicon.ico HTTP/1.1" 200 1406
