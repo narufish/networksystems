@@ -1,2 +1,2 @@
-# networksystems
-Network Systems Exercises
+# Network Systems class
+Network Systems weekly exercises
